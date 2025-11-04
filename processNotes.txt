@@ -1,0 +1,7 @@
+Mongoose CRUD Operations study
+============================
+* For full process, see the readme.md file.
+
+Resources
+=========
+https://coursework.vschool.io/mongoose-crud/  -- CRUD functions
